@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:hsl(212, 45%, 89%);
+    width: 1440px;
+    height: 880px;
+}
+.contenedor{
+    width: 600px;
+    height: 800px;
+    border: 10px solid black;
+}
+.contenedor-imagen{
+    width: 600px;
+    object-fit: cover;
+
+}
